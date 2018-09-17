@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SINValidator", "SINValidator\SINValidator.csproj", "{C2BB4850-211F-4836-8707-5C4E2989B311}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SINValidator", "src\SINValidator\SINValidator.csproj", "{C2BB4850-211F-4836-8707-5C4E2989B311}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Version>1.0.0</Version>
+    <Authors>Alexandro Paixao Marques</Authors>
+    <Company>alexandoit.com</Company>
+    <Description>SIN Validator is a validator document canadien</Description>
+    <PackageLicenseUrl>https://github.com/alexandroit/SINValidator</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/alexandroit/SINValidator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alexandroit/SINValidator</RepositoryUrl>
+	
+  </PropertyGroup>
+
+</Project>
