@@ -16,7 +16,6 @@ namespace SINValidator
         {
 
             var digits = Number.ToDigitEnumerable();
-            var conta = digits.Count();
             if (digits.Count() != 9) return false;
 
             //The left side of the addition is adding all even indexes (except the last digit).
