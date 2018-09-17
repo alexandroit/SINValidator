@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SINValidator", "src\SINVali
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{107D4B01-A208-4AC1-AFFC-4BE50D212179}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SINValidator.Tests", "SINValidator.Tests\SINValidator.Tests.csproj", "{7C78F7DD-8128-47B9-937A-D8AAFF6F84F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SINValidator.Tests", "tests\SINValidator.Tests\SINValidator.Tests.csproj", "{7C78F7DD-8128-47B9-937A-D8AAFF6F84F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
